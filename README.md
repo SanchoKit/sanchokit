@@ -25,8 +25,7 @@ Hey! I'm a 22-year-old Platform Engineer at SAP, specializing in cloud infrastru
 - 🔧 **Platform Engineering** - Building tools & infrastructure for scale
 
 **For Fun:**
-- 🎮 **Gaming** - Project Moon games, Pokémon, Hearthstone
-- ☕ **Coffee & Code** - Because the best ideas require caffeine
+- 🎮 **Gaming** - Project Moon games & Hearthstone
 ---
 
 ## 🛠️ Tech Stack
@@ -36,9 +35,6 @@ Hey! I'm a 22-year-old Platform Engineer at SAP, specializing in cloud infrastru
 **Protocols & Adapters:** REST • SOAP • AXIS • SEC
 
 **Languages:** Java • Python • YAML • Bash
-
-**Tools:** Git • VS Code • Docker Desktop • Helm
-
 ---
 
 ## 📫 Let's Connect!
