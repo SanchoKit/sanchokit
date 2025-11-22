@@ -27,14 +27,6 @@ Hey! I'm a 22-year-old Platform Engineer at SAP, specializing in cloud infrastru
 **For Fun:**
 - 🎮 **Gaming** - Project Moon games, Pokémon, Hearthstone
 - ☕ **Coffee & Code** - Because the best ideas require caffeine
-- 🌱 **Continuous Learning** - Exploring new cloud technologies
-
----
-
-## 🚀 Featured Projects
-
-Check out my repositories to see what I'm working on! Each project represents a blend of clean code, thoughtful design, and creative problem-solving.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -50,18 +42,11 @@ Check out my repositories to see what I'm working on! Each project represents a 
 ---
 
 ## 📫 Let's Connect!
-
-- 🐙 [GitHub](https://github.com/SanchoKit)
 - 🐦 [Twitter](https://twitter.com/SanchoKit)
-- 💼 [LinkedIn](https://linkedin.com/in/SanchoKit)
-- ✉️ Always happy to chat about cloud platforms, adapters, or gaming!
-
 ---
 
 <div align="center">
   
 ### 🌸 Thanks for stopping by!
-
-*Made with ☕ and ✨*
 
 </div>
