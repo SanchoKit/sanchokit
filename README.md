@@ -2,9 +2,9 @@
 
 <div align="center">
   
-### ✨ La Manchaland 🌶️
+### ✨ Platform Engineer @ SAP
 
-*Creating beautiful, meaningful digital experiences*
+*Cloud & Adapters Specialist | Coffee Enthusiast ☕*
 
 </div>
 
@@ -12,19 +12,22 @@
 
 ## 🎨 About Me
 
-Welcome to my corner of the internet! I'm a passionate developer who loves creating beautiful, meaningful experiences through code and design. Here you'll find my projects, experiments, and creative explorations.
+Hey! I'm a 22-year-old Platform Engineer at SAP, specializing in cloud infrastructure and integration adapters. I work with Kubernetes, Helm, Docker, and manage REST, SOAP, AXIS, and SEC adapters. When I'm not building scalable systems, you'll find me enjoying a good cup of coffee and getting lost in Project Moon games, Pokémon, or Hearthstone!
 
 ---
 
 ## 💻 What I Do
 
-I'm passionate about:
-- 🎯 **Full-Stack Development** - Building complete, polished applications
-- 🎨 **UI/UX Design** - Crafting beautiful and intuitive interfaces
-- ✨ **Creative Coding** - Experimenting with new technologies and ideas
-- 🌱 **Continuous Learning** - Always exploring new tools and techniques
-- ☕ **Coffee & Code** - Because great ideas need caffeine
-- 🎭 **Creative Projects** - Bringing imagination to life
+**Professionally:**
+- 🚀 **Hyperscaler Management** - Kubernetes, Helm, Docker orchestration & optimization
+- 🔌 **Adapter Development** - REST, SOAP, AXIS, SEC protocol implementations
+- ☁️ **Cloud Architecture** - Designing scalable, resilient systems at SAP
+- 🔧 **Platform Engineering** - Building tools & infrastructure for scale
+
+**For Fun:**
+- 🎮 **Gaming** - Project Moon games, Pokémon, Hearthstone
+- ☕ **Coffee & Code** - Because the best ideas require caffeine
+- 🌱 **Continuous Learning** - Exploring new cloud technologies
 
 ---
 
@@ -36,22 +39,22 @@ Check out my repositories to see what I'm working on! Each project represents a 
 
 ## 🛠️ Tech Stack
 
-**Languages:** JavaScript • TypeScript • Python • HTML/CSS
+**Cloud & Infrastructure:** Kubernetes • Helm • Docker • SAP Cloud Platform
 
-**Frontend:** React • Vue • Tailwind CSS
+**Protocols & Adapters:** REST • SOAP • AXIS • SEC
 
-**Backend:** Node.js • Express
+**Languages:** Java • Python • YAML • Bash
 
-**Tools:** Git • VS Code • Figma
+**Tools:** Git • VS Code • Docker Desktop • Helm
 
 ---
 
 ## 📫 Let's Connect!
 
-- 🐙 [GitHub](https://github.com/sancho-kit)
-- 🐦 [Twitter](https://twitter.com/sancho-kit)
-- 💼 [LinkedIn](https://linkedin.com/in/sancho-kit)
-- ✉️ Feel free to reach out anytime!
+- 🐙 [GitHub](https://github.com/SanchoKit)
+- 🐦 [Twitter](https://twitter.com/SanchoKit)
+- 💼 [LinkedIn](https://linkedin.com/in/SanchoKit)
+- ✉️ Always happy to chat about cloud platforms, adapters, or gaming!
 
 ---
 
