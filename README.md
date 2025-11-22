@@ -5,14 +5,15 @@
 ### ✨ Platform Engineer @ SAP
 
 *Cloud & Adapters Specialist | Coffee Enthusiast ☕*
+**Sleep is dead. Coffee is fuel. Production is full.**
 
 </div>
 
 ---
 
-## 🎨 About Me
+## 🥬 About Me
 
-Hey! I'm a 22-year-old Platform Engineer at SAP, specializing in cloud infrastructure and integration adapters. I work with Kubernetes, Helm, Docker, and manage REST, SOAP, AXIS, and SEC adapters. When I'm not building scalable systems, you'll find me enjoying a good cup of coffee and getting lost in Project Moon games, Pokémon, or Hearthstone!
+I'm a 22-year-old Platform Engineer at SAP, specializing in cloud infrastructure and integration adapters. I work with Kubernetes, Helm, Docker, and manage REST, SOAP, AXIS, and SEC adapters. 💚
 
 ---
 
