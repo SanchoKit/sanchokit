@@ -4,8 +4,9 @@
   
 ### ✨ Platform Engineer @ SAP
 
-*Cloud & Adapters Specialist | Coffee Enthusiast ☕*
-- **Sleep is dead. Coffee is fuel. Production is full.**
+*Cloud & Adapters Specialist | Coffee Enthusiast ☕* |
+
+**Sleep is dead. Coffee is fuel. Production is full.**
 
 </div>
 
