@@ -6,8 +6,6 @@
 
 <br>
 
-<img src="https://media1.tenor.com/m/VEF32Nj65ucAAAAC/lobotomy-corp.gif" width="200" />
-
 </div>
 
 ---
@@ -36,3 +34,5 @@ I spend time on games (mostly Project Moon titles and Hearthstone) and occasiona
 ### Links
 - 🐦 Twitter: [@SanchoKit](https://twitter.com/SanchoKit)
 - 🚂 Steam: [steamcommunity.com/id/SashkoKit](https://steamcommunity.com/id/SashkoKit/)
+
+<img src="https://media1.tenor.com/m/VEF32Nj65ucAAAAC/lobotomy-corp.gif" width="200" />
