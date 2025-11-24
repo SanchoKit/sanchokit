@@ -1,56 +1,38 @@
-# 👋 Hey, I’m SanchoKit
+# 👋 Hi, I’m SanchoKit
 
 <div align="center">
 
-**Platform Engineer @ SAP**  
-Coffee drinker, adapter tinkerer, occasional gamer.
+**Platform Engineer @ SAP**
 
 <br>
 
-<!-- Angela dance gif -->
-<img src="https://media.tenor.com/OfV0FMBq1AQAAAAd/library-of-ruina-angela.gif" width="200" alt="Angela Burnt Bread Dance"/>
+<img src="https://tenor.com/view/lobotomy-corp-gif-6071265545909102311" width="200" />
 
 </div>
 
 ---
 
-### 🥬 A Bit About Me
+### About Me
 
-I’m 22 and work as a Platform Engineer at SAP. Most of my time goes into building and maintaining cloud infrastructure and working with integration adapters. I spend a lot of time around Kubernetes clusters and containerized apps. When it all works, I pretend it was intentional.
-
----
-
-### 💻 What I Actually Do
-
-**Work stuff:**
-- Keeping Kubernetes, Helm, and Docker deployments alive (or reviving them when they die)
-- Writing/maintaining adapters for REST, SOAP, AXIS, SEC
-- Designing cloud solutions that hopefully scale instead of explode
-- Tooling and platform engineering to make life easier for the teams around me
-
-**Not work stuff:**
-- Gaming (Hearthstone + Project Moon titles are my weakness)
-- Experimenting with random tech ideas that never leave the folder called `test_v3_final_FINAL_really_final`
+I’m 22 and currently working as a Platform Engineer at SAP.  
+I work with cloud infrastructure and integration adapters, mainly around Kubernetes and containerized applications. My focus is on building stable systems, scaling services, and supporting teams that rely on them.
 
 ---
 
-### 🛠️ Tools & Tech I Use
+### What I Work With
 
-**Infra / Cloud:** Kubernetes • Helm • Docker • SAP Cloud Platform  
-**Adapters / Protocols:** REST • SOAP • AXIS • SEC  
-**Languages:** Java • Python • YAML (way too much) • Bash (when things get desperate)
+- **Cloud & Containers:** Kubernetes, Helm, Docker, SAP Cloud Platform  
+- **Integration Adapters:** REST, SOAP, AXIS, SEC  
+- **Languages / Tools:** Java, Python, Bash, YAML  
 
 ---
 
-### 📫 Find Me Elsewhere
+### Outside of Work
+
+I spend time on games (mostly Project Moon titles and Hearthstone) and occasionally work on personal projects when time allows.
+
+---
+
+### Links
 - 🐦 Twitter: [@SanchoKit](https://twitter.com/SanchoKit)
-- 🚂 Steam: [steamcommunity.com/id/SashkoKit/](https://steamcommunity.com/id/SashkoKit/)
-
----
-
-<div align="center">
-
-**Thanks for passing by.  
-If you’re a coffee-powered engineer too, we’re already friends. ☕**
-
-</div>
+- 🚂 Steam: [steamcommunity.com/id/SashkoKit](https://steamcommunity.com/id/SashkoKit/)
