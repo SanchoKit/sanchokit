@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="/mnt/data/78b2d215-1dbf-46cc-be63-49f5c79080b3.png" width="200" alt="Your Gif"/>
+<img src="https://media1.tenor.com/m/VEF32Nj65ucAAAAC/lobotomy-corp.gif" width="200" />
 
 </div>
 
