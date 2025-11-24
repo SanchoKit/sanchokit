@@ -4,10 +4,6 @@
 
 **Platform Engineer @ SAP**
 
-<br>
-
-<img src="https://media1.tenor.com/m/VEF32Nj65ucAAAAC/lobotomy-corp.gif" width="160" />
-
 </div>
 
 ---
@@ -36,3 +32,11 @@ I spend time on games (mostly Project Moon titles and Hearthstone) and occasiona
 ### Links
 - 🐦 Twitter: [@SanchoKit](https://twitter.com/SanchoKit)
 - 🚂 Steam: [steamcommunity.com/id/SashkoKit](https://steamcommunity.com/id/SashkoKit/)
+
+<br>
+
+<div align="center">
+
+<img src="https://media1.tenor.com/m/VEF32Nj65ucAAAAC/lobotomy-corp.gif" width="200" />
+
+</div>
