@@ -1,50 +1,56 @@
-# 👋 Welcome to SanchoKit's GitHub!
+# 👋 Hey, I’m SanchoKit
 
 <div align="center">
-  
-### ✨ Platform Engineer @ SAP
 
-*Cloud & Adapters Specialist | Coffee Enthusiast ☕*
+**Platform Engineer @ SAP**  
+Coffee drinker, adapter tinkerer, occasional gamer.
 
-**Sleep is dead. Coffee is fuel. Production is full.**
+<br>
+
+<!-- Angela dance gif -->
+<img src="https://media.tenor.com/OfV0FMBq1AQAAAAd/library-of-ruina-angela.gif" width="200" alt="Angela Burnt Bread Dance"/>
 
 </div>
 
 ---
 
-## 🥬 About Me
+### 🥬 A Bit About Me
 
-I'm a 22-year-old Platform Engineer at SAP, specializing in cloud infrastructure and integration adapters. I work with Kubernetes, Helm, Docker, and manage REST, SOAP, AXIS, and SEC adapters. 💚
+I’m 22 and work as a Platform Engineer at SAP. Most of my time goes into building and maintaining cloud infrastructure and working with integration adapters. I spend a lot of time around Kubernetes clusters and containerized apps. When it all works, I pretend it was intentional.
 
 ---
 
-## 💻 What I Do
+### 💻 What I Actually Do
 
-**Professionally:**
-- 🚀 **Hyperscaler Management** - Kubernetes, Helm, Docker orchestration & optimization
-- 🔌 **Adapter Development** - REST, SOAP, AXIS, SEC protocol implementations
-- ☁️ **Cloud Architecture** - Designing scalable, resilient systems at SAP
-- 🔧 **Platform Engineering** - Building tools & infrastructure for scale
+**Work stuff:**
+- Keeping Kubernetes, Helm, and Docker deployments alive (or reviving them when they die)
+- Writing/maintaining adapters for REST, SOAP, AXIS, SEC
+- Designing cloud solutions that hopefully scale instead of explode
+- Tooling and platform engineering to make life easier for the teams around me
 
-**For Fun:**
-- 🎮 **Gaming** - Project Moon games & Hearthstone
+**Not work stuff:**
+- Gaming (Hearthstone + Project Moon titles are my weakness)
+- Experimenting with random tech ideas that never leave the folder called `test_v3_final_FINAL_really_final`
+
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tools & Tech I Use
 
-**Cloud & Infrastructure:** Kubernetes • Helm • Docker • SAP Cloud Platform
+**Infra / Cloud:** Kubernetes • Helm • Docker • SAP Cloud Platform  
+**Adapters / Protocols:** REST • SOAP • AXIS • SEC  
+**Languages:** Java • Python • YAML (way too much) • Bash (when things get desperate)
 
-**Protocols & Adapters:** REST • SOAP • AXIS • SEC
-
-**Languages:** Java • Python • YAML • Bash
 ---
 
-## 📫 Let's Connect!
-- 🐦 [Twitter](https://twitter.com/SanchoKit)
+### 📫 Find Me Elsewhere
+- 🐦 Twitter: [@SanchoKit](https://twitter.com/SanchoKit)
+- 🚂 Steam: [steamcommunity.com/id/SashkoKit/](https://steamcommunity.com/id/SashkoKit/)
+
 ---
 
 <div align="center">
-  
-### 🌸 Thanks for stopping by!
+
+**Thanks for passing by.  
+If you’re a coffee-powered engineer too, we’re already friends. ☕**
 
 </div>
