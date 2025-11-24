@@ -37,6 +37,6 @@ I spend time on games (mostly Project Moon titles and Hearthstone) and occasiona
 
 <div align="center">
 
-<img src="https://tenor.com/view/angela-lobotomy-corporation-gif-15229093552700828891" width="200" />
+<img src="https://media1.tenor.com/m/01ib5iPsrNsAAAAC/angela-lobotomy.gif" width="200" />
 
 </div>
