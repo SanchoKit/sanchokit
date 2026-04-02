@@ -19,7 +19,7 @@ I work with cloud infrastructure and integration adapters, mainly around Kuberne
 
 - **Cloud & Containers:** Kubernetes, Helm, Docker, SAP Cloud Platform  
 - **Integration Adapters:** REST, SOAP, AXIS, SEC  
-- **Languages / Tools:** Java, Python, Bash, YAML  
+- **Languages / Tools:** Mainly Java, but can also Python, Lua, Typescript, C++, C#
 
 ---
 
