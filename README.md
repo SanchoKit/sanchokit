@@ -12,6 +12,7 @@
 
 I’m 22 and currently working as a Platform Engineer at SAP.  
 I work with cloud infrastructure and integration adapters, mainly around Kubernetes and containerized applications. My focus is on building stable systems, scaling services, and supporting teams that rely on them.
+Basically google Hybrid Deployment Using Edge Integration Cell if that curious.
 
 ---
 
